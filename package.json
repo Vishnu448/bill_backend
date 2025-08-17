@@ -2,7 +2,7 @@
   "name": "bill_backend",
   "version": "1.0.0",
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "main": "src/index.js",
   "type": "commonjs",
@@ -28,7 +28,8 @@
     "nodemon": "^3.1.10",
     "path": "^0.12.7",
     "pdfkit": "^0.17.1",
-    "port": "^0.8.1"
+    "port": "^0.8.1",
+    "serverless-http": "^3.2.0"
   },
   "author": "",
   "license": "ISC",

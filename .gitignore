@@ -177,3 +177,7 @@ coverage/
 # Cache
 .cache/
 
+
+
+.vercel
+
